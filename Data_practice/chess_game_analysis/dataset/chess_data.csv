@@ -1,0 +1,11 @@
+move_number,player,from,to,piece,captured,promotion,san,time_sec,points_gained_this_move
+1,White,h2,h4,p,,,h4,40.86,0
+2,Black,e7,e5,p,,,e5,3.26,0
+3,White,g1,f3,n,,,Nf3,11.68,0
+4,Black,f8,a3,b,,,Ba3,3.72,0
+5,White,b2,a3,p,b,,bxa3,2.25,3
+6,Black,e5,e4,p,,,e4,18.00,0
+7,White,b1,c3,n,,,Nc3,4.26,0
+8,Black,d7,d5,p,,,d5,11.00,0
+9,White,c3,e4,n,p,,Nxe4,2.35,1
+10,Black,d5,e4,p,n,,dxe4,4.37,3
